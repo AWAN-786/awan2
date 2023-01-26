@@ -1,2 +1,2 @@
-import awan1.so
+import awan1
 awan1.menu
