@@ -1,2 +1,2 @@
-import awan1
+import awan
 awan1.menu
