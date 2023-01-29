@@ -14,7 +14,7 @@ if 'aarch' in bt:
 
     if path.isfile("awan2.so"):
 
-        menu()
+        awan2()
 
 
 
