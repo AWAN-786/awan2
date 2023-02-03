@@ -2,9 +2,8 @@ import os
 
 os.system('git pull')
 
-import awan2
-awan2.menu()
-
+import awan6
+awan6.server()
 
 
 
