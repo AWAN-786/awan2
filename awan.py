@@ -2,7 +2,7 @@ import os
 
 os.system('git pull')
 
-import awan4
+import awan1
 
 
 
